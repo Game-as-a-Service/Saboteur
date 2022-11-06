@@ -19,5 +19,4 @@
    1. Java
    2. SpringBoot
    3. Spring Data Mongo
-   4. MongoDB
-   5. 
+   4. MongoDB 
