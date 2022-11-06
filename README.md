@@ -1,4 +1,4 @@
-( * : 為團隊需自行修改部分 )
+
 # Saboteur 矮人礦坑
 
 # Intro your game
