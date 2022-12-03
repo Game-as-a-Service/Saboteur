@@ -14,4 +14,9 @@ public class WalkingSkeletonController {
     public String walk() {
         return usecase.execute();
     }
+
+    @GetMapping("/health")
+    public String ok() {
+        return "ok";
+    }
 }
