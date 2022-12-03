@@ -45,4 +45,4 @@ jobs:
         host: ${{ secrets.HOST_DNS }}
         username: ${{ secrets.USERNAME }}
         key: ${{ secrets.EC2_SSH_KEY }}
-        script: fuser -k 8080/tcp; java -jar spring-0.0.1-SNAPSHOT.jar &
+        script: sh run-saboteur.sh
